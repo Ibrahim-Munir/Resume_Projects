@@ -1,0 +1,18 @@
+
+Disclaimer: 
+
+This file encryption tool is provided for educational and experimental purposes only. 
+By using this tool, you acknowledge and agree to the following:
+
+1. Responsibility: The encryption and decryption operations conducted by this script are solely the user's responsibility. Use this tool with caution and do not encrypt any sensitive or critical information.
+
+2. Educational Use: This tool is intended for educational and experimental purposes and should not be used for encrypting any important or critical data.
+
+3. No Liability: The creator of this script does not claim any responsibility or liability for any loss of data or damage caused by the use of this script. Use at your own risk.
+
+4. Precaution: Always exercise caution when encrypting or decrypting files. Ensure you have backups of your data before performing any encryption operations.
+
+5. Experimental Nature: This script may not provide comprehensive security measures and should not be relied upon for securing sensitive information.
+
+By using this script, you agree to these terms and acknowledge that the creator bears no responsibility for any consequences resulting from its usage.
+
